@@ -10,9 +10,9 @@ Masih belajar!
 <!-- End of About me -->
 
 <!-- Github Statistics -->
-## AbFrise  ![Profile View Counter](https://komarev.com/ghpvc/?username=friseanlutia&color=green)
+## Frise  ![Profile View Counter](https://komarev.com/ghpvc/?username=friseanlutia&color=green)
 <p align="left">
-<a href="https://github.com/Bintaaaa">
+<a href="https://github.com/friseanlutia">
   <img width="99%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bintaaaa&show_icons=true&theme=light&include_all_commits=true&count_private=true&icon_color=000000&bg_color=FFFFFF"/>
   <img width="38%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bintaaaa&layout=compact&langs_count=10&theme=light&bg_color=FFFFFF"/>
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bintaaaa&theme=light&fire=000000&ring=000000&currStreakLabel=000000"/>
