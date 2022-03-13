@@ -5,7 +5,7 @@
 <!-- End of Banner -->
 <!-- About me -->
 Selamat datang di Github Frise Anesha Lutia!
-Masih belajar!
+Masih dalam proses belajar!
 
 <!-- End of About me -->
 
